@@ -1,0 +1,44 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+margin-bottom: 75px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.object
+{
+    width: 25%;
+    margin: 75px;
+    font-size: 23px;
+}
+.heading-bed
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas 
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+}
